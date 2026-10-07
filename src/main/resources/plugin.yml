@@ -1,0 +1,4 @@
+name: Casino
+version: '1.0-SNAPSHOT'
+main: de.main.casino.Casino
+api-version: '1.21'
